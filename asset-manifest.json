@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/saudi-comming-soon/static/css/main.b4899365.css",
+    "main.js": "/saudi-comming-soon/static/js/main.1a674631.js",
+    "static/js/453.5959a192.chunk.js": "/saudi-comming-soon/static/js/453.5959a192.chunk.js",
+    "static/media/photo1.jpg": "/saudi-comming-soon/static/media/photo1.532e8bd4ad6b66ee9dae.jpg",
+    "static/media/newLogo.png": "/saudi-comming-soon/static/media/newLogo.e755939ea6ba68a2858b.png",
+    "static/media/photo2.jpg": "/saudi-comming-soon/static/media/photo2.20789ecb85cff89eab21.jpg",
+    "index.html": "/saudi-comming-soon/index.html",
+    "main.b4899365.css.map": "/saudi-comming-soon/static/css/main.b4899365.css.map",
+    "main.1a674631.js.map": "/saudi-comming-soon/static/js/main.1a674631.js.map",
+    "453.5959a192.chunk.js.map": "/saudi-comming-soon/static/js/453.5959a192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4899365.css",
+    "static/js/main.1a674631.js"
+  ]
+}
